@@ -14,4 +14,5 @@ TC KIMLIK NO
 ISE BASLAMA TARIHI
 FAALIYET KOD VE ADLARI
 
-![Uploading VERGI_LEVHASI.png…]()
+
+![VERGI_LEVHASI](https://github.com/furkantaseri/reading-tax-certificate-pdf/assets/129793257/cc2e97bd-f4fc-447a-bc66-5db038b160e4)
